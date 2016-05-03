@@ -1,0 +1,38 @@
+<div class="m-search" >
+ 		<header>
+	    <div class="yo-ico" action-type="tap.back">&lt;</div>
+	   	<span>
+	      	<input type="text" class="yo-ico" placeholder="&#xe612;全网低价，搜你想要" />
+	    </span>  
+	</header>
+	<nav>
+			<div class="active">类目</div>
+			<div>品牌</div>
+	</nav>
+	<section>
+		
+		<div>
+			<div>
+				<ul>
+					<li>
+						<i><img src="/Tomato-eggs/images/new.jpg" /></i>
+						<p>春季新品</p>
+					</li>
+					<li>
+						<i><img src="/Tomato-eggs/images/new.jpg" /></i>
+						<p>春季新品</p>
+					</li>
+					<li>
+						<i><img src="/Tomato-eggs/images/new.jpg" /></i>
+						<p>春季新品</p>
+					</li>
+					<li>
+						<i><img src="/Tomato-eggs/images/new.jpg" /></i>
+						<p>春季新品</p>
+					</li>
+					
+				</ul>
+			</div>
+		</div>
+	</section>
+</div>

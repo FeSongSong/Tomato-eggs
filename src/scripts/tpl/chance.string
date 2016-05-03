@@ -1,0 +1,258 @@
+ 
+ <header>
+    <div class="yo-ico" action-type="show.search">&#xe609;</div>
+    <ul>
+      <li>番茄炒蛋</li>
+    </ul>
+    <div class="yo-ico" action-type="show.dialog">&#xe763;</div>
+  </header>
+  
+  <section  spa-widget="scroll" id="one-section">
+		
+		<div style="padding-bottom:0.44rem">
+	  <nav>
+	   <div class="swiper-container" id="chance-swiper">
+		  <div class="swiper-wrapper">
+		    <div class="swiper-slide"><img src="/Tomato-eggs/images/swiper.jpg"/></div>
+		    <div class="swiper-slide">2</div>
+		    <div class="swiper-slide">3</div>
+		    <div class="swiper-slide">4</div>
+		  </div>
+		  <div class="swiper-pagination"></div>
+		</div>
+	  </nav>
+  	<div class="main-top">
+  		<ul class="special-offer">
+  			<li>
+  				<i></i>
+  				<p>特价专区</p>
+  			</li>
+  			<li></li>
+  			<li>每天精选限量好货</li>
+  		</ul>
+  		
+  		<div class="cheap-clearance">
+  			<div></div>
+  			<div class="none"></div>
+	  		<ul>
+	  			<li></li>
+	  			<li></li>
+	  			<li></li>
+	  		</ul>
+  		</div>
+  	</div>
+  	<div class="list-show" id="wrapper">
+  		
+	  	<ul>
+	  		<li class="active" action-type="swipe">精选</li>
+	  		<li action-type="swipe">服装</li>
+	  		<li action-type="swipe">新品</li>
+	  		<li action-type="swipe">电器</li>
+	  		<li action-type="swipe" >喜欢</li>
+	  		<li action-type="swipe">视频</li>
+	  		<li action-type="swipe">音乐</li>
+	  		<li action-type="swipe" >精选</li>
+	  	</ul>
+	  </div>
+	  	<section id="two-section">
+    	<div class="swiper-container" id="list-swiper">
+    	  <div class="swiper-wrapper">
+       		 <div class="swiper-slide" >
+         		<div class="shops-list">
+	  				<ul>
+	  					<li>
+		  				<i><img src="/Tomato-eggs/images/shops.jpg"/></i>
+		  				<div>
+		  				<b>热卖</b>
+		  				<span>2016春装新款一字扣西装+松紧腰短裤女款两件套</span>
+		  				</div>
+		  				<p>￥:49.0</p>
+		  				<div>
+		  					<span class="price-sale">￥98.0</span>
+		  					<span class="number">已售4888件</span>
+		  				</div>
+		  				
+		  			</li>
+		  			<li></li>
+		  			<li>
+		  				<i><img src="/Tomato-eggs/images/shops.jpg"/></i>
+		  				<div>
+		  				<b>热卖</b>
+		  				<span>2016春装新款一字扣西装+松紧腰短裤女款两件套</span>
+		  				</div>
+		  				<p>￥:49.0</p>
+		  				<div>
+		  					<span class="price-sale">￥98.0</span>
+		  					<span class="number">已售4888件</span>
+		  				</div>
+		  				
+		  			</li>
+		  		</ul>
+		  		<ul>
+		  			<li>
+		  				<i><img src="/Tomato-eggs/images/shops.jpg"/></i>
+		  				<div>
+		  				<b>热卖</b>
+		  				<span>2016春装新款一字扣西装+松紧腰短裤女款两件套</span>
+		  				</div>
+		  				<p>￥:49.0</p>
+		  				<div>
+		  					<span class="price-sale">￥98.0</span>
+		  					<span class="number">已售4888件</span>
+		  				</div>
+		  				
+		  			</li>
+		  			<li></li>
+		  			<li>
+		  				<i><img src="/Tomato-eggs/images/shops.jpg"/></i>
+		  				<div>
+		  				<b>热卖</b>
+		  				<span>2016春装新款一字扣西装+松紧腰短裤女款两件套</span>
+		  				</div>
+		  				<p>￥:49.0</p>
+		  				<div>
+		  					<span class="price-sale">￥98.0</span>
+		  					<span class="number">已售4888件</span>
+		  				</div>
+		  				
+		  			</li>
+		  		</ul>
+		  		<ul>
+		  			<li>
+		  				<i><img src="/Tomato-eggs/images/shops.jpg"/></i>
+		  				<div>
+		  				<b>热卖</b>
+		  				<span>2016春装新款一字扣西装+松紧腰短裤女款两件套</span>
+		  				</div>
+		  				<p>￥:49.0</p>
+		  				<div>
+		  					<span class="price-sale">￥98.0</span>
+		  					<span class="number">已售4888件</span>
+		  				</div>
+		  				
+		  			</li>
+		  			<li></li>
+		  			<li>
+		  				<i><img src="/Tomato-eggs/images/shops.jpg"/></i>
+		  				<div>
+		  				<b>热卖</b>
+		  				<span>2016春装新款一字扣西装+松紧腰短裤女款两件套</span>
+		  				</div>
+		  				<p>￥:49.0</p>
+		  				<div>
+		  					<span class="price-sale">￥98.0</span>
+		  					<span class="number">已售4888件</span>
+		  				</div>
+		  				
+		  			</li>
+		  		</ul>
+		
+		</div>
+	        </div>
+	        <div class="swiper-slide" action-type="show.search">
+	        	<div class="shops-list">
+	  				<ul>
+	  					<li>
+		  				<i><img src="/Tomato-eggs/images/girl.jpg"/></i>
+		  				<div>
+		  				<b>热卖</b>
+		  				<span>2016春装新款一字扣西装+松紧腰短裤女款两件套</span>
+		  				</div>
+		  				<p>￥:49.0</p>
+		  				<div>
+		  					<span class="price-sale">￥98.0</span>
+		  					<span class="number">已售4888件</span>
+		  				</div>
+		  				
+		  			</li>
+		  			<li></li>
+		  			<li>
+		  				<i><img src="/Tomato-eggs/images/girl.jpg"/></i>
+		  				<div>
+		  				<b>热卖</b>
+		  				<span>2016春装新款一字扣西装+松紧腰短裤女款两件套</span>
+		  				</div>
+		  				<p>￥:49.0</p>
+		  				<div>
+		  					<span class="price-sale">￥98.0</span>
+		  					<span class="number">已售4888件</span>
+		  				</div>
+		  				
+		  			</li>
+		  		</ul>
+		  		<ul>
+		  			<li>
+		  				<i><img src="/Tomato-eggs/images/girl.jpg"/></i>
+		  				<div>
+		  				<b>热卖</b>
+		  				<span>2016春装新款一字扣西装+松紧腰短裤女款两件套</span>
+		  				</div>
+		  				<p>￥:49.0</p>
+		  				<div>
+		  					<span class="price-sale">￥98.0</span>
+		  					<span class="number">已售4888件</span>
+		  				</div>
+		  				
+		  			</li>
+		  			<li></li>
+		  			<li>
+		  				<i><img src="/Tomato-eggs/images/shops.jpg"/></i>
+		  				<div>
+		  				<b>热卖</b>
+		  				<span>2016春装新款一字扣西装+松紧腰短裤女款两件套</span>
+		  				</div>
+		  				<p>￥:49.0</p>
+		  				<div>
+		  					<span class="price-sale">￥98.0</span>
+		  					<span class="number">已售4888件</span>
+		  				</div>
+		  				
+		  			</li>
+		  		</ul>
+		  		<ul>
+		  			<li>
+		  				<i><img src="/Tomato-eggs/images/shops.jpg"/></i>
+		  				<div>
+		  				<b>热卖</b>
+		  				<span>2016春装新款一字扣西装+松紧腰短裤女款两件套</span>
+		  				</div>
+		  				<p>￥:49.0</p>
+		  				<div>
+		  					<span class="price-sale">￥98.0</span>
+		  					<span class="number">已售4888件</span>
+		  				</div>
+		  				
+		  			</li>
+		  			<li></li>
+		  			<li>
+		  				<i><img src="/Tomato-eggs/images/shops.jpg"/></i>
+		  				<div>
+		  				<b>热卖</b>
+		  				<span>2016春装新款一字扣西装+松紧腰短裤女款两件套</span>
+		  				</div>
+		  				<p>￥:49.0</p>
+		  				<div>
+		  					<span class="price-sale">￥98.0</span>
+		  					<span class="number">已售4888件</span>
+		  				</div>
+		  				
+		  			</li>
+		  		</ul>
+		
+		</div>
+	        </div>
+	        <div class="swiper-slide" action-type="show.actionsheet">3</div>
+	        <div class="swiper-slide">4</div>
+	         <div class="swiper-slide">5</div>
+	          <div class="swiper-slide">6</div>
+	           <div class="swiper-slide">7</div>
+	            <div class="swiper-slide">8</div>
+	      </div>
+	    </div>
+	  </section>
+		  	
+		  
+	  
+	
+	</div>
+  </section>
